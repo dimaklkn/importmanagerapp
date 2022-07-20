@@ -1,0 +1,28 @@
+{
+    "fabrics": [
+        {
+            "name": "TC 65/35 45*45 133/72",
+            "composition": "65% polyester, 35% cotton",
+            "width": "150",
+            "gsm": "0.115"
+        },
+        {
+            "name": "TC 65/35 32*32 130/70",
+            "composition": "65% polyester, 35% cotton",
+            "width": "150",
+            "gsm": "0.150"
+        },
+        {
+            "name": "TRS 52/45/3 'Silva'",
+            "composition": "52% polyester, 45% rayon, 3% spandex",
+            "width": "150",
+            "gsm": "0.170"
+        },
+        {
+            "name": "VLT3162 'Adva'",
+            "composition": "47.5% polyester, 49.5% cotton, 3% PU",
+            "width": "150",
+            "gsm": "0.145"
+        }
+    ]
+}

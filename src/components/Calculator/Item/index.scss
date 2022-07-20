@@ -1,0 +1,66 @@
+
+
+
+
+
+#fabricInput {
+        
+    width: 35%;
+    border: 0;
+    background: #768fa4;
+    height: 31px;
+    font-size: 12px;
+    color: whitesmoke;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-right: 5px;
+  
+  }
+
+  #quantityInput {
+    width: 20%;
+    border: 0;
+    background: #768fa4;
+    height: 31px;
+    font-size: 12px;
+    color: whitesmoke;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-right: 5px;
+  }
+
+  #price-input {
+    width: 15%;
+    border: 0;
+    background: #768fa4;
+    height: 31px;
+    font-size: 12px;
+    color: whitesmoke;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-right: 5px;
+  }
+
+#delete-button {
+    color: #768fa4;
+    height: 31px;
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 2px solid #768fa4;
+
+    border-radius: 3px;
+    background: 0 0;
+    text-transform: uppercase;
+
+    text-align: center;
+  
+
+    &:hover {
+      background: #768fa4;
+      color: whitesmoke;
+    }
+  }
+
+

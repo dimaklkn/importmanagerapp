@@ -1,0 +1,32 @@
+{
+    "factories": [
+        {
+            "name": "Shaanxi Qinyuan Textiles Co., Ltd.",
+            "position": [34.270374,107.824711],
+            "products": "TC, CVC",
+            "manager": "Carrie",
+            "email": "carrie@shanxi.com"
+        },
+        {
+            "name": "Shaanxi Huaye Co., Ltd.",
+            "position": [20,90],
+            "products": "TC",
+            "manager": "Eunice",
+            "email": "eunice@saehac2234.com"
+        },
+        {
+            "name": "Zhejiang Welkang Int Trading Co., Ltd.",
+            "position": [30.24884,120.17172],
+            "products": "TR, Viscose",
+            "manager": "Qiao",
+            "email": "qiao@5443afg.com"
+        },
+        {
+            "name": "Aratex Trading DMCC",
+            "position": [34.68089010888312,33.04297321837082],
+            "products": "TC, CVC, TR, Viscose",
+            "manager": "Noha",
+            "email": "aratex@gmail.com"
+        }
+    ]
+}
